@@ -1,0 +1,157 @@
+{
+  "site": {
+    "title": "小熊666软件库",
+    "subtitle": "桃花依旧，故人如昨",
+    "banner": "🎵 听海音乐 · 清爽夏日专属推荐",
+    "bannerBtn": "下载",
+    "notice": "资源持续更新，密码均为666，如有失效请联系客服。",
+    "home": "https://link3.cc/xiaoxiong666"
+  },
+  "categories": [
+    "全部",
+    "影视动漫",
+    "电视TV",
+    "漫画小说"
+  ],
+  "software": [
+    {
+      "id": "jukxing",
+      "name": "剧开心",
+      "version": "2.0.4",
+      "versionCode": 204,
+      "cat": "影视动漫",
+      "icon": "🎬",
+      "time": "2026-09-05 10:31",
+      "desc": "海量影视资源，注册登录即可食用，短剧/漫剧/动漫一网打尽。",
+      "isNew": true,
+      "links": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.quark.cn/s/659cb7b0d80a",
+          "primary": true
+        },
+        {
+          "label": "备用网盘",
+          "url": "https://pan.xunlei.com/s/VP0BOZktRijXLx-bp0uviAuEA1?pwd=3cnp"
+        }
+      ]
+    },
+    {
+      "id": "xiaoyouzi",
+      "name": "小柚子",
+      "version": "5.0.4",
+      "versionCode": 504,
+      "cat": "影视动漫",
+      "icon": "🍊",
+      "time": "2026-09-04 18:20",
+      "desc": "轻量影视聚合，界面简洁无广告，追剧神器。",
+      "isNew": true,
+      "links": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.xunlei.com/s/VOzLL6w3qORRp0iq5VYcJHeHA1?pwd=uxbc",
+          "primary": true
+        },
+        {
+          "label": "备用网盘",
+          "url": "https://pan.xunlei.com/s/VP-28FMPnQzt7Pe85QgsS3WAA1?pwd=9g9a"
+        }
+      ]
+    },
+    {
+      "id": "007movie",
+      "name": "零零七影视",
+      "version": "3.0.4",
+      "versionCode": 304,
+      "cat": "影视动漫",
+      "icon": "🕶️",
+      "time": "2026-09-03 09:15",
+      "desc": "007专属影视库，高清资源每日更新。",
+      "isNew": false,
+      "links": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.xunlei.com/s/VOzLLCV0nl9tM4KdNl9ZsvvPA1?pwd=8q4e",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "maitian",
+      "name": "麦田影院",
+      "version": "2.0.2",
+      "versionCode": 202,
+      "cat": "电视TV",
+      "icon": "🌾",
+      "time": "2026-09-02 21:00",
+      "desc": "大屏TV版影院，支持安卓盒子，遥控器友好。",
+      "isNew": true,
+      "links": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.xunlei.com/s/VOzLLNgC4DZ38XnL_bZU-CUoA1?pwd=2fxb",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "xiaohuangren",
+      "name": "小黄人",
+      "version": "2.0.3",
+      "versionCode": 203,
+      "cat": "影视动漫",
+      "icon": "🟡",
+      "time": "2026-08-30 12:00",
+      "desc": "经典动漫合集，童年回忆一网打尽。",
+      "isNew": false,
+      "links": [
+        {
+          "label": "夸克网盘",
+          "url": "https://pan.xunlei.com/s/VP-1h6azr290ngPlBUgYDhM9A1?pwd=uz5b",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "tvzj",
+      "name": "tv版追剧软件",
+      "version": "1.6.1",
+      "versionCode": 161,
+      "cat": "电视TV",
+      "icon": "📺",
+      "time": "2026-08-28 08:30",
+      "desc": "专为电视打造的追剧软件，UC网盘分享，永久有效。",
+      "isNew": false,
+      "links": [
+        {
+          "label": "UC网盘",
+          "url": "https://drive.uc.cn/s/da53e68f35ae4?public=1",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "manhua",
+      "name": "漫客栈",
+      "version": "1.2.0",
+      "versionCode": 120,
+      "cat": "漫画小说",
+      "icon": "📖",
+      "time": "2026-09-01 15:45",
+      "desc": "热门漫画小说阅读，每日更新，离线缓存。",
+      "isNew": true,
+      "links": [
+        {
+          "label": "蓝奏云",
+          "url": "https://xiaoxiong666.lanzouq.com/b01d735y4j",
+          "primary": true
+        },
+        {
+          "label": "专区(蓝奏)",
+          "url": "https://xiaoxiong666.lanzouq.com/b01d736qgj"
+        }
+      ]
+    }
+  ],
+  "logs": []
+}
